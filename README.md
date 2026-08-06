@@ -20,6 +20,7 @@ I'm a Diploma in Software Engineering student passionate about software developm
 - Arduino
 - C
 - Kotlin
+- Dart
 
 ### Tools
 - GitHub
@@ -36,8 +37,11 @@ A mobile-based IoT monitoring system that enables cat owners to track litter usa
 ### Web-based Cinema Ticketing System
 A simple website designed to help users book movie tickets and order food and beverages online, eliminating the need to wait in line at the counter. It is developed using VS Code and XAMPP, employing HTML, CSS, and PHP as the programming languages, with MySQL serving as the database.
 
+### Simple Grading System
+A simple **Student Grading System** that allows users to manage student grades through a menu-driven interface. It provides functions to add student names and marks, calculate letter grades, compute the average grade of all students, determine a grade for an entered mark, and display a report of all recorded students. The program includes input validation to ensure marks are between 0 and 100, uses lists to store student information and grades, and applies loops and functions to make the system interactive and user-friendly.
+
+
 ## 📫 Contact
 
-LinkedIn: www.linkedin.com/in/zaki-al-mahdi
-
-Email: zakialmahdi@gmail.com
+- **LinkedIn**: www.linkedin.com/in/zaki-al-mahdi
+- **Email**: zakialmahdi@gmail.com
