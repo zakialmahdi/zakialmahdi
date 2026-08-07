@@ -40,6 +40,8 @@ A simple website designed to help users book movie tickets and order food and be
 ### Simple Grading System
 A simple **Student Grading System** that allows users to manage student grades through a menu-driven interface. It provides functions to add student names and marks, calculate letter grades, compute the average grade of all students, determine a grade for an entered mark, and display a report of all recorded students. The program includes input validation to ensure marks are between 0 and 100, uses lists to store student information and grades, and applies loops and functions to make the system interactive and user-friendly.
 
+### Java Cinema Booking System
+A Java desktop application for booking and managing cinema tickets. It provides an intuitive GUI for browsing movies, selecting showtimes and seats, and completing reservations. The app focuses on a smooth user experience and reliable data handling, making it a compact but complete example of a production-minded desktop application.
 
 ## 📫 Contact
 
