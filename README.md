@@ -31,7 +31,7 @@ I'm a Diploma in Software Engineering student passionate about software developm
 
 ## 📌 Projects
 
-### VerivEra
+### VertivEra
 An all-in-one township waste management and community platform built for Sime Darby Property. Born from residents' firsthand frustration with illegal dumping, clogged drains, and fragmented recycling options, VertivEra connects neighborhood communities directly with township operations. It features an interactive recycling bin map, a geotagged hazard reporting system for issues like blocked monsoon drains, and a one-click scheduling tool for doorstep bulky waste pickups. To encourage local reuse, it also includes ReMarket, a neighborhood marketplace moderated by basic AI vision models to ensure safe, quality listings.
 
 ### PurrClean
