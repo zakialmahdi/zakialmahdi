@@ -31,6 +31,9 @@ I'm a Diploma in Software Engineering student passionate about software developm
 
 ## 📌 Projects
 
+### VerivEra
+An all-in-one township waste management and community platform built for Sime Darby Property. Born from residents' firsthand frustration with illegal dumping, clogged drains, and fragmented recycling options, VertivEra connects neighborhood communities directly with township operations. It features an interactive recycling bin map, a geotagged hazard reporting system for issues like blocked monsoon drains, and a one-click scheduling tool for doorstep bulky waste pickups. To encourage local reuse, it also includes ReMarket, a neighborhood marketplace moderated by basic AI vision models to ensure safe, quality listings.
+
 ### PurrClean
 A mobile-based IoT monitoring system that enables cat owners to track litter usage and detect abnormal behaviour patterns through real-time sensor data. The project combines an ESP32 microcontroller, sensor integration, Firebase cloud services, and Android application development to provide automated notifications for litter maintenance and potential health concerns.
 
